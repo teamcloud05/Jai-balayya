@@ -9,7 +9,13 @@ Just Add Me To Your Group And Enjoy Of All Available Movies On TG  \n\nAre you r
     
 ᴡᴇ ʜᴀᴠᴇ ᴅᴇᴠɪᴅᴇᴅ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ ꜰᴏʀ ɢʀᴏᴜᴘ ᴏᴡɴᴇʀꜱ ᴀɴᴅ ʙᴏᴛ ᴜꜱᴇʀꜱ.</b>"""
 
-    ABOUT_TXT = """<b>‣ ᴍʏ ɴᴀᴍᴇ : {}\n‣ ᴄʀᴇᴀᴛᴏʀ : href='https://t.me/TeamLeech>TeamLeech\n‣ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ\n‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ\n‣ ʜᴏsᴛᴇᴅ ᴏɴ  : ʜᴇʀᴏᴋᴜ\n‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ4.2 [sᴛᴀʙʟᴇ]</b>"""
+    ABOUT_TXT = """✯ My Name: {}
+✯ Developer: <a href=https://t.me/TeamLeech>TeamLeech</a>
+✯ Library: Program 
+✯ Language : Python 3
+✯ DataBase: Mango DB
+✯ Bot Server: KOYEB
+✯ Build Status: v4.2 [sᴛᴀʙʟᴇ]"""
     
     CHANNELS = """
 <b>⚡ ɢʀᴏᴜᴘs & ᴄʜᴀɴɴᴇʟs ɪɴғᴏ ⚡ 
@@ -180,7 +186,7 @@ Bʏ @TeamLeech"""
 
 ›› ꜱᴛᴇᴘ 5 : ᴄᴏᴘʏ ʏᴏᴜʀ ᴀᴘɪ ꜰʀᴏᴍ ᴡᴇʙꜱɪᴛᴇ ᴀɴᴅ ᴛʜᴇɴ, ꜱɪᴍᴘʟʏ ꜱᴇᴛ ʏᴏᴜʀ ᴡᴇʙꜱɪᴛᴇ ᴀɴᴅ ᴀᴘɪ ᴜꜱɪɴɢ ᴛʜᴇ /shortlink ᴄᴏᴍᴍᴀɴᴅ.
 
-› ʟɪᴋᴇ ᴛʜɪꜱ :</b>  <code>/shortlink api.paisakamalo.in ed4f17106956cea1ea9f258507c17e2501b701aa</code>
+› ʟɪᴋᴇ ᴛʜɪꜱ :</b>  <code>/shortlink paisakamalo.in/api ed4f17106956cea1ea9f258507c17e2501b701aa</code>
 
 <b>›› ꜱᴛᴇᴘ 6 : ᴄʟɪᴄᴋ ᴏɴ ɴᴇxᴛ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ ᴛᴜᴛᴏʀɪᴀʟ ᴡɪᴛʜ ᴛʜɪs ʙᴏᴛ.
 
