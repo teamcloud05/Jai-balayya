@@ -480,7 +480,7 @@ async def get_shortlink(chat_id, link):
         #     link = link.replace("http", https) #replacing http to https
         # conn = http.client.HTTPSConnection("api.paisakamalo.in")
         # payload = json.dumps({
-        #   "api_key": "4c1YTBacB6PTuwogBiEIFvZN5TI3",
+        #   "api_key": "ed4f17106956cea1ea9f258507c17e2501b701aa",
         #   "monetization": True,
         #   "destination": link,
         #   "ad_page": 3,
