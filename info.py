@@ -29,8 +29,8 @@ SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://telegra.ph/file/734170f40b8
 CODE = (environ.get('CODE', 'https://graph.org/file/11c92b91090ba982866a7.jpg'))
 
 #stream link shortner
-STREAM_SITE = (environ.get('STREAM_SITE', 'paisakamalo.in/api'))
-STREAM_API = (environ.get('STREAM_API', 'ed4f17106956cea1ea9f258507c17e2501b701aa'))
+STREAM_SITE = (environ.get('STREAM_SITE', 'api.shareus.io'))
+STREAM_API = (environ.get('STREAM_API', '2Os2Dk6GnNhV88jLAINnahwZ4d13'))
 STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/TeamLeech'))
 
 # Admins, Channels & Users
@@ -62,8 +62,8 @@ VERIFY = bool(environ.get('VERIFY', False)) # Verification On ( True ) / Off ( F
 HOWTOVERIFY = environ.get('HOWTOVERIFY', 'https://t.me/TeamLeech') # How to open tutorial link for verification
 
 # Others
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'paisakamalo.in/api')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'ed4f17106956cea1ea9f258507c17e2501b701aa')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'api.shareus.io')
+SHORTLINK_API = environ.get('SHORTLINK_API', '2Os2Dk6GnNhV88jLAINnahwZ4d13')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))  # else--> True
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
