@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """Hello {},
+    START_TXT = """Hello {}, {}
 Myself <a href=https://t.me/{}>{}</a>,\n\nI Can Provide Movies In Telegram Groups. You Can Search Movies Via Inline. I Can Also Add Filters In Telegram Groups.
 Just Add Me To Your Group And Enjoy Of All Available Movies On TG  \n\nAre you ready for Long Drive Baby...🤪"""
 
