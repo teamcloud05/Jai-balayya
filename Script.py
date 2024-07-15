@@ -184,7 +184,7 @@ Bʏ @TeamLeech"""
 
 ›› ꜱᴛᴇᴘ 5 : ᴄᴏᴘʏ ʏᴏᴜʀ ᴀᴘɪ ꜰʀᴏᴍ ᴡᴇʙꜱɪᴛᴇ ᴀɴᴅ ᴛʜᴇɴ, ꜱɪᴍᴘʟʏ ꜱᴇᴛ ʏᴏᴜʀ ᴡᴇʙꜱɪᴛᴇ ᴀɴᴅ ᴀᴘɪ ᴜꜱɪɴɢ ᴛʜᴇ /shortlink ᴄᴏᴍᴍᴀɴᴅ.
 
-› ʟɪᴋᴇ ᴛʜɪꜱ :</b>  <code>/shortlink api.shareus.io 2Os2Dk6GnNhV88jLAINnahwZ4d13</code>
+› ʟɪᴋᴇ ᴛʜɪꜱ :</b>  <code>/shortlink paisakamalo.in ed4f17106956cea1ea9f258507c17e2501b701aa</code>
 
 <b>›› ꜱᴛᴇᴘ 6 : ᴄʟɪᴄᴋ ᴏɴ ɴᴇxᴛ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ ᴛᴜᴛᴏʀɪᴀʟ ᴡɪᴛʜ ᴛʜɪs ʙᴏᴛ.
 
