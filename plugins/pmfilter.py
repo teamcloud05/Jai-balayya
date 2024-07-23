@@ -1727,7 +1727,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('⚜️ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ ⚜️', url='https://t.me/MovieMingleNetNetwork')
         ],[
             InlineKeyboardButton('🔍 ɢʀᴏᴜᴘ¹', url='https://t.me/+GyyDy5betJNmYTBl'),
-            InlineKeyboardButton('ɢʀᴏᴜᴘ² 🔎', url='https://t.me/+GyyDy5betJNmYTBl')
+            InlineKeyboardButton('ɢʀᴏᴜᴘ² 🔎', url='https://t.me/+wrXBfPvXWhswY2Y1')
         ],[
             InlineKeyboardButton('✉️ ʀᴇǫᴜᴇꜱᴛ ɢʀᴏᴜᴘ ✉️', url='https://t.me/+GyyDy5betJNmYTBl')
         ],[
